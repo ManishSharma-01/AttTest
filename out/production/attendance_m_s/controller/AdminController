@@ -1,0 +1,17 @@
+package controller;
+
+import java.sql.ResultSet;
+
+import com.mysql.cj.Query;
+
+import database.DbConnection;
+
+
+public class AdminController {
+    
+    DbConnection db;
+
+    // Register Faculty
+    
+
+
